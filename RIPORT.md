@@ -1,6 +1,6 @@
 # A dékáni hivatal „működő” kapcsolati űrlapja – hibariport
 
-Repó: https://github.com/felhasznalo/umfst-bh01-kapcsolati-urlap
+Repó: https://github.com/CsiszerAlpar/umfst-bh01-kapcsolati-urlap
 Készítette: Csiszer Alpar, Info_LM 3. ev
 
 ## 1. hiba
